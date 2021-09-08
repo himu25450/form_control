@@ -12,6 +12,8 @@
 	<label for="name">Enter Your Name</label>
 	<input type="email" name="email" id="">
 	<label for="email">Enter Your Email</label>
+	<input type="password" name="pass" id="">
+	<label for="pass">Create a password</label>
 	<input type="submit" value="submit">
 	</form>
 </body>
